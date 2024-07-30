@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "secrets1": {
+      "type": "secrets.user"
+    },
+    "mssql1": {
+      "serviceConnectorResourceId": "/subscriptions/[parameters('subscriptionId')]/resourceGroups/[parameters('resourceGroupName')]/providers/Microsoft.ServiceLinker/locations/westus2/connectors/ConnectionStringsazuredatabase_5D5A488E95",
+      "secretStore": "LocalSecretsFile",
+      "resourceId": "/subscriptions/[parameters('subscriptionId')]/resourceGroups/[parameters('resourceGroupName')]/providers/Microsoft.Sql/servers/dustintsui/databases/CodingInterview",
+      "type": "mssql.azure",
+      "connectionId": "ConnectionStrings:azuredatabase"
+    }
+  }
+}

@@ -1,0 +1,212 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dustin\\Documents\\2024 applications\\TestBed\\VenteurKnight\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8C69E385-BF26-4A64-8056-0EB2C3D91F34}|VenteurKnight\\VenteurKnight.csproj|c:\\users\\dustin\\documents\\2024 applications\\testbed\\venteurknight\\venteurknight\\services\\knightservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C69E385-BF26-4A64-8056-0EB2C3D91F34}|VenteurKnight\\VenteurKnight.csproj|solutionrelative:venteurknight\\services\\knightservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C69E385-BF26-4A64-8056-0EB2C3D91F34}|VenteurKnight\\VenteurKnight.csproj|c:\\users\\dustin\\documents\\2024 applications\\testbed\\venteurknight\\venteurknight\\repository\\knightrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C69E385-BF26-4A64-8056-0EB2C3D91F34}|VenteurKnight\\VenteurKnight.csproj|solutionrelative:venteurknight\\repository\\knightrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C69E385-BF26-4A64-8056-0EB2C3D91F34}|VenteurKnight\\VenteurKnight.csproj|c:\\users\\dustin\\documents\\2024 applications\\testbed\\venteurknight\\venteurknight\\controllers\\knightcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C69E385-BF26-4A64-8056-0EB2C3D91F34}|VenteurKnight\\VenteurKnight.csproj|solutionrelative:venteurknight\\controllers\\knightcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C69E385-BF26-4A64-8056-0EB2C3D91F34}|VenteurKnight\\VenteurKnight.csproj|c:\\users\\dustin\\documents\\2024 applications\\testbed\\venteurknight\\venteurknight\\models\\knightpath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C69E385-BF26-4A64-8056-0EB2C3D91F34}|VenteurKnight\\VenteurKnight.csproj|solutionrelative:venteurknight\\models\\knightpath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C69E385-BF26-4A64-8056-0EB2C3D91F34}|VenteurKnight\\VenteurKnight.csproj|c:\\users\\dustin\\documents\\2024 applications\\testbed\\venteurknight\\venteurknight\\interfaces\\iknightservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C69E385-BF26-4A64-8056-0EB2C3D91F34}|VenteurKnight\\VenteurKnight.csproj|solutionrelative:venteurknight\\interfaces\\iknightservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C69E385-BF26-4A64-8056-0EB2C3D91F34}|VenteurKnight\\VenteurKnight.csproj|c:\\users\\dustin\\documents\\2024 applications\\testbed\\venteurknight\\venteurknight\\models\\knight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C69E385-BF26-4A64-8056-0EB2C3D91F34}|VenteurKnight\\VenteurKnight.csproj|solutionrelative:venteurknight\\models\\knight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C69E385-BF26-4A64-8056-0EB2C3D91F34}|VenteurKnight\\VenteurKnight.csproj|c:\\users\\dustin\\documents\\2024 applications\\testbed\\venteurknight\\venteurknight\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C69E385-BF26-4A64-8056-0EB2C3D91F34}|VenteurKnight\\VenteurKnight.csproj|solutionrelative:venteurknight\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C69E385-BF26-4A64-8056-0EB2C3D91F34}|VenteurKnight\\VenteurKnight.csproj|c:\\users\\dustin\\documents\\2024 applications\\testbed\\venteurknight\\venteurknight\\interfaces\\iknightrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C69E385-BF26-4A64-8056-0EB2C3D91F34}|VenteurKnight\\VenteurKnight.csproj|solutionrelative:venteurknight\\interfaces\\iknightrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C69E385-BF26-4A64-8056-0EB2C3D91F34}|VenteurKnight\\VenteurKnight.csproj|c:\\users\\dustin\\documents\\2024 applications\\testbed\\venteurknight\\venteurknight\\models\\codinginterviewcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C69E385-BF26-4A64-8056-0EB2C3D91F34}|VenteurKnight\\VenteurKnight.csproj|solutionrelative:venteurknight\\models\\codinginterviewcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C69E385-BF26-4A64-8056-0EB2C3D91F34}|VenteurKnight\\VenteurKnight.csproj|c:\\users\\dustin\\documents\\2024 applications\\testbed\\venteurknight\\venteurknight\\models\\genericresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C69E385-BF26-4A64-8056-0EB2C3D91F34}|VenteurKnight\\VenteurKnight.csproj|solutionrelative:venteurknight\\models\\genericresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C69E385-BF26-4A64-8056-0EB2C3D91F34}|VenteurKnight\\VenteurKnight.csproj|c:\\users\\dustin\\documents\\2024 applications\\testbed\\venteurknight\\venteurknight\\models\\knightresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C69E385-BF26-4A64-8056-0EB2C3D91F34}|VenteurKnight\\VenteurKnight.csproj|solutionrelative:venteurknight\\models\\knightresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "KnightResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Dustin\\Documents\\2024 applications\\TestBed\\VenteurKnight\\VenteurKnight\\Models\\KnightResponse.cs",
+              "RelativeDocumentMoniker": "VenteurKnight\\Models\\KnightResponse.cs",
+              "ToolTip": "C:\\Users\\Dustin\\Documents\\2024 applications\\TestBed\\VenteurKnight\\VenteurKnight\\Models\\KnightResponse.cs",
+              "RelativeToolTip": "VenteurKnight\\Models\\KnightResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T22:52:07.208Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "KnightPath.cs",
+              "DocumentMoniker": "C:\\Users\\Dustin\\Documents\\2024 applications\\TestBed\\VenteurKnight\\VenteurKnight\\Models\\KnightPath.cs",
+              "RelativeDocumentMoniker": "VenteurKnight\\Models\\KnightPath.cs",
+              "ToolTip": "C:\\Users\\Dustin\\Documents\\2024 applications\\TestBed\\VenteurKnight\\VenteurKnight\\Models\\KnightPath.cs",
+              "RelativeToolTip": "VenteurKnight\\Models\\KnightPath.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBIAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T21:04:30.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IKnightRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Dustin\\Documents\\2024 applications\\TestBed\\VenteurKnight\\VenteurKnight\\Interfaces\\IKnightRepository.cs",
+              "RelativeDocumentMoniker": "VenteurKnight\\Interfaces\\IKnightRepository.cs",
+              "ToolTip": "C:\\Users\\Dustin\\Documents\\2024 applications\\TestBed\\VenteurKnight\\VenteurKnight\\Interfaces\\IKnightRepository.cs",
+              "RelativeToolTip": "VenteurKnight\\Interfaces\\IKnightRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T19:05:44.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "KnightRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Dustin\\Documents\\2024 applications\\TestBed\\VenteurKnight\\VenteurKnight\\Repository\\KnightRepository.cs",
+              "RelativeDocumentMoniker": "VenteurKnight\\Repository\\KnightRepository.cs",
+              "ToolTip": "C:\\Users\\Dustin\\Documents\\2024 applications\\TestBed\\VenteurKnight\\VenteurKnight\\Repository\\KnightRepository.cs",
+              "RelativeToolTip": "VenteurKnight\\Repository\\KnightRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T18:20:45.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Knight.cs",
+              "DocumentMoniker": "C:\\Users\\Dustin\\Documents\\2024 applications\\TestBed\\VenteurKnight\\VenteurKnight\\Models\\Knight.cs",
+              "RelativeDocumentMoniker": "VenteurKnight\\Models\\Knight.cs",
+              "ToolTip": "C:\\Users\\Dustin\\Documents\\2024 applications\\TestBed\\VenteurKnight\\VenteurKnight\\Models\\Knight.cs",
+              "RelativeToolTip": "VenteurKnight\\Models\\Knight.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAArwBgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T18:17:08.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CodingInterviewContext.cs",
+              "DocumentMoniker": "C:\\Users\\Dustin\\Documents\\2024 applications\\TestBed\\VenteurKnight\\VenteurKnight\\Models\\CodingInterviewContext.cs",
+              "RelativeDocumentMoniker": "VenteurKnight\\Models\\CodingInterviewContext.cs",
+              "ToolTip": "C:\\Users\\Dustin\\Documents\\2024 applications\\TestBed\\VenteurKnight\\VenteurKnight\\Models\\CodingInterviewContext.cs",
+              "RelativeToolTip": "VenteurKnight\\Models\\CodingInterviewContext.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAxwCEAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T18:16:29.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GenericResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Dustin\\Documents\\2024 applications\\TestBed\\VenteurKnight\\VenteurKnight\\Models\\GenericResponse.cs",
+              "RelativeDocumentMoniker": "VenteurKnight\\Models\\GenericResponse.cs",
+              "ToolTip": "C:\\Users\\Dustin\\Documents\\2024 applications\\TestBed\\VenteurKnight\\VenteurKnight\\Models\\GenericResponse.cs",
+              "RelativeToolTip": "VenteurKnight\\Models\\GenericResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T00:25:29.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IKnightService.cs",
+              "DocumentMoniker": "C:\\Users\\Dustin\\Documents\\2024 applications\\TestBed\\VenteurKnight\\VenteurKnight\\Interfaces\\IKnightService.cs",
+              "RelativeDocumentMoniker": "VenteurKnight\\Interfaces\\IKnightService.cs",
+              "ToolTip": "C:\\Users\\Dustin\\Documents\\2024 applications\\TestBed\\VenteurKnight\\VenteurKnight\\Interfaces\\IKnightService.cs",
+              "RelativeToolTip": "VenteurKnight\\Interfaces\\IKnightService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T22:50:17.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "KnightService.cs",
+              "DocumentMoniker": "C:\\Users\\Dustin\\Documents\\2024 applications\\TestBed\\VenteurKnight\\VenteurKnight\\Services\\KnightService.cs",
+              "RelativeDocumentMoniker": "VenteurKnight\\Services\\KnightService.cs",
+              "ToolTip": "C:\\Users\\Dustin\\Documents\\2024 applications\\TestBed\\VenteurKnight\\VenteurKnight\\Services\\KnightService.cs",
+              "RelativeToolTip": "VenteurKnight\\Services\\KnightService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T22:49:20.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "KnightController.cs",
+              "DocumentMoniker": "C:\\Users\\Dustin\\Documents\\2024 applications\\TestBed\\VenteurKnight\\VenteurKnight\\Controllers\\KnightController.cs",
+              "RelativeDocumentMoniker": "VenteurKnight\\Controllers\\KnightController.cs",
+              "ToolTip": "C:\\Users\\Dustin\\Documents\\2024 applications\\TestBed\\VenteurKnight\\VenteurKnight\\Controllers\\KnightController.cs",
+              "RelativeToolTip": "VenteurKnight\\Controllers\\KnightController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T22:47:44.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Dustin\\Documents\\2024 applications\\TestBed\\VenteurKnight\\VenteurKnight\\Program.cs",
+              "RelativeDocumentMoniker": "VenteurKnight\\Program.cs",
+              "ToolTip": "C:\\Users\\Dustin\\Documents\\2024 applications\\TestBed\\VenteurKnight\\VenteurKnight\\Program.cs",
+              "RelativeToolTip": "VenteurKnight\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T22:45:57.423Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
