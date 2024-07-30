@@ -14,20 +14,20 @@ namespace VenteurKnight.Service
         public KnightService(IKnightRepository knightRepository) {
             _knightRepository = knightRepository;
         }
-        public async Task<GenericResponse<string>> CreateKnight(string start, string end)
+        public async Task<GenericResponse<string>> CreateKnight(string source, string target)
         {
             try {
                 //Validate
-                if (start.Length != 2 || end.Length != 2 || !LETTERS.Contains(start[0]) || !NUMBERS.Contains(start[1]) ||
-                    !LETTERS.Contains(end[0]) || !NUMBERS.Contains(end[1]))
+                if (source.Length != 2 || target.Length != 2 || !LETTERS.Contains(source[0]) || !NUMBERS.Contains(source[1]) ||
+                    !LETTERS.Contains(target[0]) || !NUMBERS.Contains(target[1]))
                 {
                     throw new ArgumentException("Input must be in A1 to H8 format");
                 }
                 Knight knight = new Knight()
                 {
                     OperationId = Guid.NewGuid().ToString(),
-                    Starting = start,
-                    Ending = end,
+                    Starting = source,
+                    Ending = target,
                 };
                 
                 var resultKnight = await CalculatePath(knight);

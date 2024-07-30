@@ -15,9 +15,9 @@ namespace VenteurKnight.Controllers
             knightService = _knightService;
         }
         [HttpPost(Name = "knightpath")]
-        public async Task<IActionResult> CreateKnight(string start, string end)
+        public async Task<IActionResult> CreateKnight(string source, string target)
         {
-            var result = await knightService.CreateKnight(start, end);
+            var result = await knightService.CreateKnight(source, target);
             if (result.Success) {
                 return Ok(result);
             }
