@@ -19,22 +19,15 @@ namespace VenteurKnight
             builder.Services.AddControllers();
             // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
             builder.Services.AddEndpointsApiExplorer();
+            
             builder.Services.AddSwaggerGen(c => {
                 c.SwaggerDoc("v1", new OpenApiInfo { Title = "My API", Version = "v1" });
-            });
-            builder.Services.ConfigureSwaggerGen(setup =>
-            {
-                setup.SwaggerDoc("v1", new Microsoft.OpenApi.Models.OpenApiInfo
-                {
-                    Title = "My API",
-                    Version = "v1"
-                });
             });
             builder.Services.AddScoped<IKnightService, KnightService>();
             builder.Services.AddScoped<IKnightRepository, KnightRepository>();
             builder.Services.AddDbContext<CodingInterviewContext>();
             var app = builder.Build();
-
+            app.UseRouting();
             // Configure the HTTP request pipeline.
             if (app.Environment.IsDevelopment())
             {
