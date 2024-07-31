@@ -1,6 +1,7 @@
 using Microsoft.AspNetCore.Builder;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
+using Microsoft.Extensions.Options;
 using Microsoft.OpenApi.Models;
 using VenteurKnight.Interfaces;
 using VenteurKnight.Models;
@@ -26,23 +27,22 @@ namespace VenteurKnight
             builder.Services.AddDbContext<CodingInterviewContext>();
 
             var app = builder.Build();
-
-            
-            if (app.Environment.IsDevelopment())
-            {
-                app.UseDeveloperExceptionPage();
-            }
-
             app.UseHttpsRedirection();
             app.UseRouting();
+            if (app.Environment.IsDevelopment())
+            {
+                app.UseSwagger();
+                app.UseSwaggerUI();
+            }
+            else
+            {
+                app.UseSwagger();
+                app.UseSwaggerUI(c => {
+                    c.SwaggerEndpoint("/swagger/v1/swagger.json", "My API V1");
+                    c.RoutePrefix = string.Empty;
+                });
+            }
             app.UseAuthorization();
-
-            app.UseSwagger();
-
-            app.UseSwaggerUI(c => {
-                c.SwaggerEndpoint("/swagger/v1/swagger.json", "My API V1");
-            });
-
             app.MapControllers();
 
             app.Run();
