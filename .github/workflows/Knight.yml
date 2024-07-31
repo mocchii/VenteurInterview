@@ -12,7 +12,7 @@ env:
   AZURE_APIM_API_ID: my-api
   AZURE_APIM_APPSERVICEURL: https://knight-byc4f7byd8etdna7.eastus-01.azurewebsites.net
   SWASHBUCLE_ASPNET_CORE_CLI_PACKAGE_VERSION: 5.6.3
-  SWASHBUCKLE_DOTNET_CORE_VERSION: 6.6.x
+  SWASHBUCKLE_DOTNET_CORE_VERSION: 6.x.x
   API_IMPORT_SPECIFICATION_PATH: VenteurKnight\publish\swagger.json
   API_IMPORT_DLL: VenteurKnight\bin\Release\net8.0\VenteurKnight.dll
   API_IMPORT_VERSION: v1
