@@ -14,7 +14,8 @@ namespace VenteurKnight.Controllers
         {
             knightService = _knightService;
         }
-        [HttpPost(Name = "knightpath")]
+        [HttpPost]
+        [Route("/KnightPath")]
         public async Task<IActionResult> CreateKnight(string source, string target)
         {
             var result = await knightService.CreateKnight(source, target);
@@ -27,7 +28,8 @@ namespace VenteurKnight.Controllers
             
         }
 
-        [HttpGet(Name = "knightpath")]
+        [HttpGet]
+        [Route("/KnightPath")]
         public async Task<IActionResult> GetKnightPath(string operationId)
         {
             var result = await knightService.GetKnightPath(operationId);

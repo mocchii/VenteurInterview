@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("VenteurKnight")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a960636ed8d51f02a8db0feccc08bba6d13e5dac")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+df1f993808505df8670c0c1e0cd368b79d464582")]
 [assembly: System.Reflection.AssemblyProductAttribute("VenteurKnight")]
 [assembly: System.Reflection.AssemblyTitleAttribute("VenteurKnight")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
