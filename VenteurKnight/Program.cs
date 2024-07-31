@@ -22,6 +22,14 @@ namespace VenteurKnight
             builder.Services.AddSwaggerGen(c => {
                 c.SwaggerDoc("v1", new OpenApiInfo { Title = "My API", Version = "v1" });
             });
+            builder.Services.ConfigureSwaggerGen(setup =>
+            {
+                setup.SwaggerDoc("v1", new Microsoft.OpenApi.Models.OpenApiInfo
+                {
+                    Title = "My API",
+                    Version = "v1"
+                });
+            });
             builder.Services.AddScoped<IKnightService, KnightService>();
             builder.Services.AddScoped<IKnightRepository, KnightRepository>();
             builder.Services.AddDbContext<CodingInterviewContext>();
